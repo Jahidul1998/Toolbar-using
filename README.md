@@ -1,8 +1,8 @@
-## Make a Toolbar application dart
+## Make a Toolbar-using dart
 
 Make a Toolbar application like google maps with dart programming language.
 
-<img src="./toolbar.jpg" width="250">
+<img src="./toolbar.png" width="250">
 
 ## Getting Started
 
